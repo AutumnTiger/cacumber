@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 'Introduction to Science'
+  description: 'learn about the world'
+  price: 9.99
+  category_id: 1
+
+two:
+  name: 'Lord of the rings'
+  description: 'One ring to control them all'
+  price: 13.00
+  category_id: 2
+
